@@ -1,0 +1,1 @@
+i have built a basic empty-input-tag checker with js for my project
